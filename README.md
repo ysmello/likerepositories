@@ -1,0 +1,3 @@
+# likerepositories
+
+Projeto para estudos
